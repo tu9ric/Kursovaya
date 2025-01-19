@@ -1,0 +1,5 @@
+/home/artyom/Study/Programming/Kursovaya/build/CMakeFiles/FLTKExample.dir
+/home/artyom/Study/Programming/Kursovaya/build/CMakeFiles/package.dir
+/home/artyom/Study/Programming/Kursovaya/build/CMakeFiles/package_source.dir
+/home/artyom/Study/Programming/Kursovaya/build/CMakeFiles/edit_cache.dir
+/home/artyom/Study/Programming/Kursovaya/build/CMakeFiles/rebuild_cache.dir

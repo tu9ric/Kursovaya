@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/home/artyom/Study/Programming/Kursovaya/build",
+  "command": "/usr/bin/g++ -g -o CMakeFiles/FLTKExample.dir/main.cpp.o -c /home/artyom/Study/Programming/Kursovaya/main.cpp",
+  "file": "/home/artyom/Study/Programming/Kursovaya/main.cpp",
+  "output": "CMakeFiles/FLTKExample.dir/main.cpp.o"
+}
+]
