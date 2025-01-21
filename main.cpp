@@ -12,7 +12,7 @@ void button_callback(Fl_Widget* widget, void* data) {
 
 int main() {
     // Создаем окно размером 300x200 пикселей с заголовком "FLTK Example".
-    Fl_Window* window = new Fl_Window(300, 200, "FLTK Example");
+    Fl_Window* window = new Fl_Window(500, 500, "FLTK Example");
 
     // Создаем текстовое поле (Fl_Input) размером 200x30 пикселей, 
     // расположенное на 50 пикселей от левого края и 50 пикселей от верхнего края окна.
